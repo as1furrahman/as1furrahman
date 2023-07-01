@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=as1furrahman.as1furrahman" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=as1furrahman&icon=0&color=6" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👾;+I'm+Asifur+Rahman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🎉;+I'm+Asifur+Rahman!;" />
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  🐛 I’m currently learning *DevOps*
+  🧪 I’m currently learning *DevOps*
  
  </div>
 
@@ -54,11 +54,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=as1furrahman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=as1furrahman&theme=dark&hide_border=false"/>
   
 </div>
+<br>
 
-<br/><br/>
+<div align=center>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br>
 <hr/>
 
 <h3 align="center">

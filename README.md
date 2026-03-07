@@ -7,13 +7,9 @@
      ║  SECTION 1 — HERO BANNER + ANIMATED GREETING                       ║
      ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- UNCOMMENT when you upload hero_banner.png to the repo:
 <div align="center">
   <img src="hero_banner.png" alt="Asifur Rahman — Linux Enthusiast & DevOps Learner" width="100%" />
 </div>
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2F3C,100:00D4AA&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">

@@ -153,13 +153,9 @@ philosophy: "Keep it simple. Keep it minimal. Keep it powerful."
      ║  SECTION 7 — FOOTER ART + FAREWELL                                 ║
      ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- UNCOMMENT when you upload footer.png to the repo:
 <div align="center">
-  <img src="footer.png" alt="Footer — Into the void" width="100%" />
+  <img src="footer.png" alt="Footer — Signal Lost" width="100%" />
 </div>
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0A2F3C,100:0D1117&height=120&section=footer" width="100%"/>
 
 <br/>
 

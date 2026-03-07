@@ -7,11 +7,13 @@
      ║  SECTION 1 — HERO BANNER + ANIMATED GREETING                       ║
      ╚══════════════════════════════════════════════════════════════════════╝ -->
 
+<!-- UNCOMMENT when you upload hero_banner.png to the repo:
 <div align="center">
   <img src="hero_banner.png" alt="Asifur Rahman — Linux Enthusiast & DevOps Learner" width="100%" />
 </div>
+-->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2F3C,100:00D4AA&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -122,8 +124,7 @@ philosophy: "Keep it simple. Keep it minimal. Keep it powerful."
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=as1furrahman&show_icons=true&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&icon_color=FF6B35&border_color=1A1F2E&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=as1furrahman&layout=compact&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&icon_color=FF6B35&border_color=1A1F2E&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img width="55%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=as1furrahman&layout=compact&theme=react&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&icon_color=FF6B35&border_color=1A1F2E&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -152,9 +153,13 @@ philosophy: "Keep it simple. Keep it minimal. Keep it powerful."
      ║  SECTION 7 — FOOTER ART + FAREWELL                                 ║
      ╚══════════════════════════════════════════════════════════════════════╝ -->
 
+<!-- UNCOMMENT when you upload footer.png to the repo:
 <div align="center">
   <img src="footer.png" alt="Footer — Into the void" width="100%" />
 </div>
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0A2F3C,100:0D1117&height=120&section=footer" width="100%"/>
 
 <br/>
 

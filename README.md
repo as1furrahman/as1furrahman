@@ -33,7 +33,7 @@
   ."'             '".             ✦  A  S  1  F 
 
 arch in ~ 
-  λ echo "Stay Determined!"
+  λ echo "Stay up-to-date!"
 ```
 
 <p align="center">
